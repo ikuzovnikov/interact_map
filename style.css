@@ -1,0 +1,23 @@
+body 
+{
+  margin: 0;
+  font-family: 'Arial', serif;
+  font-size: 34px; 
+  text-align: center;
+  font-weight: bold;
+  width: 100%;  
+}
+
+img {
+  height: 100vh;
+}
+
+p {
+  font-size: 20px;
+}
+
+aside {
+  position: fixed;
+  right: 0%;
+  bottom: 5%;
+}
