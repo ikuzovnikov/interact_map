@@ -1,3 +1,4 @@
+/*CSS со всякими мелочами для выравнивания и управления отображением через display*/ 
 body 
 {
   margin: 0;
@@ -20,7 +21,6 @@ aside {
   position: fixed;
   right: 0%;
   bottom: 5%;
-  display: none;
 }
 
 #tooltip {
